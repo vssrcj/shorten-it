@@ -5,7 +5,7 @@ const Header = () => {
       <nav class="nav navbar-default">
          <div class="navbar-header">
             <a class="navbar-brand">
-               ShortenMyLink
+               Shorten My Link
             </a>
          </div>
       </nav>
